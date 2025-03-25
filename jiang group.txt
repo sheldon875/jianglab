@@ -286,7 +286,7 @@
         <div class="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="/jianglab/lab-1.jpg" alt="实验室环境">
+                    <img src="/lab-1.jpg" alt="实验室环境">
                     <div class="carousel-caption">现代化科研实验室</div>
                 </div>
                 <div class="carousel-item">
